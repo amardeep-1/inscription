@@ -1,6 +1,6 @@
-# RU Hacks 2021
-
-## Made with love online!
+# Inscription
+A minimal note taking app with video embedding 
+## RU Hacks 2021
 
 <h1 align="center">
   <a href=""><img src="assets/img/note.gif" width="250"/></a>
