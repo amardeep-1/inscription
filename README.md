@@ -1,5 +1,6 @@
 # Inscription
 A minimal note taking app with video embedding 
+*work in progress
 ## RU Hacks 2021
 
 <h1 align="center">
